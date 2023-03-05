@@ -1,2 +1,2 @@
-# mastermind
+# Data Scientist
 Data Scientist path
